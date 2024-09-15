@@ -1,3 +1,5 @@
+package Teoria;
+
 public class Operadores {
     public static void main(String[] args) {
         // Ejemplos de operadores en Java
